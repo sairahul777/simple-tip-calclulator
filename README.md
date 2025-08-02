@@ -19,7 +19,6 @@ A beginner-friendly Python project that calculates the total bill including tip 
 ## 🧪 Example Output
 
 welcome to tip calculator!!!
-
 what was the total bill?
 100
 how much tip would you like to give? 10%, 12% or 15%
