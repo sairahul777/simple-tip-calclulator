@@ -18,6 +18,7 @@ A beginner-friendly Python project that calculates the total bill including tip 
 
 ## 🧪 Example Output
 
+<pre>
 welcome to tip calculator!!!
 what was the total bill?
 100
@@ -27,7 +28,7 @@ how many people would like to split the bill?
 5
 total bill is: $112.0
 bill per person is 22.4
-
+</pre>
 
 
 ---
